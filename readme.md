@@ -5,7 +5,7 @@
 ##### 1.安装nvm 管理node版本  node 需要两个版本8.16.2和 10+
 ##### 2.编辑器vscode
 ##### 3.git
-##### 4.yarn（yarn的源设置为淘宝源）
+##### 4.yarn（yarn的源设置为淘宝源）yarn config set registry https://registry.npm.taobao.org
 
 
 ### 前端开发
@@ -129,6 +129,10 @@
 ##### JavaScript 实用工具库  <a href="https://www.lodashjs.com/">lodash</a>
 
 ##### JavaScript 一个超轻量级的时间处理工具库  <a href="https://www.npmjs.com/package/dateformat">dateformat.js</a>
+
+##### JavaScript 一个前端截图的插件  <a href="http://html2canvas.hertzen.com/">html2canvas</a>
+
+##### JavaScript 前端全屏显示  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Element/requestFullScreen/">requestFullScreen</a>
 
 ###### 后续再添加...
 
